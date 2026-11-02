@@ -1,0 +1,8 @@
+1:"$Sreact.fragment"
+2:I[97367,["/_next/static/chunks/8769f2ce940e72fc.js","/_next/static/chunks/c00378fb010aec22.js","/_next/static/chunks/c20c6110e42ba3b5.js"],"ViewportBoundary"]
+4:I[97367,["/_next/static/chunks/8769f2ce940e72fc.js","/_next/static/chunks/c00378fb010aec22.js","/_next/static/chunks/c20c6110e42ba3b5.js"],"MetadataBoundary"]
+5:"$Sreact.suspense"
+7:I[27201,["/_next/static/chunks/8769f2ce940e72fc.js","/_next/static/chunks/c00378fb010aec22.js","/_next/static/chunks/c20c6110e42ba3b5.js"],"IconMark"]
+0:{"buildId":"DqzOd4AVF125W0mvqN6A1","rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"loading":null,"isPartial":false}
+3:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:[["$","title","0",{"children":"MONO Freelance School"}],["$","meta","1",{"name":"description","content":"An online freelancing school for students, trainees, pupils and graduates: courses, real-world projects, portfolio and resume building, and career opportunities."}],["$","meta","2",{"name":"generator","content":"v0.app"}],["$","link","3",{"rel":"icon","href":"/icon-light-32x32.png","media":"(prefers-color-scheme: light)"}],["$","link","4",{"rel":"icon","href":"/icon-dark-32x32.png","media":"(prefers-color-scheme: dark)"}],["$","link","5",{"rel":"icon","href":"/icon.svg","type":"image/svg+xml"}],["$","link","6",{"rel":"apple-touch-icon","href":"/apple-icon.png"}],["$","$L7","7",{}]]
